@@ -12,7 +12,7 @@ function loadHTML(tagName, filePath) {
 }
 
 document.addEventListener("DOMContentLoaded", function () {
-    loadHTML("header", "./components/header.html");
-    loadHTML("nav", "./components/nav.html");
-    loadHTML("footer", "./components/footer.html");
+    loadHTML("header", "../components/header.html");
+    loadHTML("nav", "../components/nav.html");
+    loadHTML("footer", "../components/footer.html");
 });

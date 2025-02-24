@@ -6,7 +6,7 @@ class Photo {
 }
 
 function loadPhotos() {
-    fetch("data/photos.json")
+    fetch("/docs/data/photos.json")
         .then(function (response) {
             return response.json();
         })

@@ -90,9 +90,9 @@ function setupTheme() {
 function setupMonthYearRow() {
     const monthNames = ["January", "February", "March", "April", "May", "June",
         "July", "August", "September", "October", "November", "December"];
-    calendarContainer.innerHTML += "<div class='month-row' id='left-arrow'><img class='arrow' src='./images/icon-arrow-left.png'></div>";
+    calendarContainer.innerHTML += "<div class='month-row' id='left-arrow'><img class='arrow' src='/docs/images/icon-arrow-left.png'></div>";
     calendarContainer.innerHTML += `<div class='month-row' id='month-year-name'>${monthNames[month - 1]} ${year}</div>`;
-    calendarContainer.innerHTML += "<div class='month-row' id='right-arrow'><img class='arrow' src='./images/icon-arrow-right.png'></div>";
+    calendarContainer.innerHTML += "<div class='month-row' id='right-arrow'><img class='arrow' src='/docs/images/icon-arrow-right.png'></div>";
 }
 
 function setupWeekdayRow() {
@@ -140,7 +140,7 @@ function loadCurrentDay() {
 }
 
 function addEvents() {
-    fetch("data/events.json")
+    fetch("/docs/data/events.json")
         .then(function (response) {
             return response.json();
         })
