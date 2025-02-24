@@ -140,7 +140,7 @@ function loadCurrentDay() {
 }
 
 function addEvents() {
-    fetch("/docs/data/events.json")
+    fetch("../data/events.json")
         .then(function (response) {
             return response.json();
         })

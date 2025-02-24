@@ -1,62 +1,62 @@
 [
     {
-        "source": "/docs/images/gallery-promenade-1.webp",
+        "source": "../images/gallery-promenade-1.webp",
         "caption": "The Promenade, the central path through the gardens"
     },
     {
-        "source": "/docs/images/gallery-zen-1.webp",
+        "source": "../images/gallery-zen-1.webp",
         "caption": "Zen Garden pond"
     },
     {
-        "source": "/docs/images/gallery-cafe-1.webp",
+        "source": "../images/gallery-cafe-1.webp",
         "caption": "Sakura Cafe seating area"
     },
     {
-        "source": "/docs/images/gallery-zen-2.webp",
+        "source": "../images/gallery-zen-2.webp",
         "caption": "Bonsai Trail in Zen Garden"
     },
     {
-        "source": "/docs/images/gallery-chapel-1.webp",
+        "source": "../images/gallery-chapel-1.webp",
         "caption": "Lewis-Moore Chapel in the Ceremonial Garden"
     },
     {
-        "source": "/docs/images/gallery-ceremonial-1.webp",
+        "source": "../images/gallery-ceremonial-1.webp",
         "caption": "Riverview Bridge in the Ceremonial Garden"
     },
     {
-        "source": "/docs/images/gallery-hidden-1.webp",
+        "source": "../images/gallery-hidden-1.webp",
         "caption": "Hidden Garden"
     },
     {
-        "source": "/docs/images/gallery-concentric-1.webp",
+        "source": "../images/gallery-concentric-1.webp",
         "caption": "Annual tulip display within the Concentric Garden"
     },
     {
-        "source": "/docs/images/gallery-vista-1.webp",
+        "source": "../images/gallery-vista-1.webp",
         "caption": "Stillwater Meadow Vista"
     },
     {
-        "source": "/docs/images/gallery-childrens-1.webp",
+        "source": "../images/gallery-childrens-1.webp",
         "caption": "Sprout Hollow children's garden"
     },
     {
-        "source": "/docs/images/gallery-refuge-1.webp",
+        "source": "../images/gallery-refuge-1.webp",
         "caption": "Nature's Refuge Trail"
     },
     {
-        "source": "/docs/images/gallery-greenhouse-1.webp",
+        "source": "../images/gallery-greenhouse-1.webp",
         "caption": "Retail Greenhouse near the Reception Center"
     },
     {
-        "source": "/docs/images/gallery-festival-1.webp",
+        "source": "../images/gallery-festival-1.webp",
         "caption": "Reception Center during Annual Winter Festival Lights Show"
     },
     {
-        "source": "/docs/images/gallery-festival-2.webp",
+        "source": "../images/gallery-festival-2.webp",
         "caption": "Annual Winter Festival Lights Show display on the Promenade"
     },
     {
-        "source": "/docs/images/gallery-festival-3.webp",
+        "source": "../images/gallery-festival-3.webp",
         "caption": "Annual Winter Festival Lights Show display on the Promenade"
     }
 ]
