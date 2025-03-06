@@ -1,7 +1,7 @@
 const slides = [
-    "url(./docs/images/gallery-promenade-1.webp)",
-    "url(./docs/images/gallery-zen-1.webp)",
-    "url(./docs/images/gallery-cafe-1.webp)"
+    "url(./public/images/gallery-promenade-1.webp)",
+    "url(./public/images/gallery-zen-1.webp)",
+    "url(./public/images/gallery-cafe-1.webp)"
 ];
 const transitionDelay = 4000; // 1000 = 1 sec
 const resumeDelay = 5000;
