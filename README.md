@@ -12,7 +12,7 @@ It is an earlier project of mine with which I started learning web development, 
 
 It was designed with thoughtfulness in regard to color scheme, UI/UX design choices, and the potential target audience.
 
-The website can be viewed [here](https://matthewpendergast.github.io/garden-website/index.html)
+The website can be viewed [here](https://matthewpendergast.github.io/botanical-garden-website/index.html)
 
 ---
 
